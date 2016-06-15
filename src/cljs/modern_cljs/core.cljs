@@ -1,5 +1,3 @@
-(ns modern-cljs.core)
-
 ;; create the main project namespace
 (ns modern-cljs.core)
 
